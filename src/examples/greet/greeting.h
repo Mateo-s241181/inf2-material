@@ -7,6 +7,7 @@ namespace inf2_examples {
 
 std::string greeting(std::string const& name);
 
+
 }
 
 #endif

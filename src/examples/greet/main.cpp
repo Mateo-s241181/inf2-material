@@ -4,6 +4,8 @@
 using namespace inf2_examples;
 
 int main() {
-  std::cout << greeting("World") << std::endl;
+
+  std::cout << greeting("Mateo") << std::endl;
+
   return 0;
 }

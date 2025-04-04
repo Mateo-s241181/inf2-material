@@ -1,5 +1,5 @@
 #include "greeting.h"
-
+#include <iostream>
 #include <sstream>
 
 namespace inf2_examples {
@@ -10,4 +10,4 @@ std::string greeting(std::string const& name) {
   return out.str();
 }
 
-}  // namespace inf2_examples
+}// namespace inf2_examples
